@@ -1,5 +1,12 @@
 ### Olá! Eu sou o Gutavo
 
+## Desenvolvedor back-end em Java e com experiência em Spring Boot.
+
+- 🔭 Atualmente trabalho com desenvolvimento de api...
+- 🌱 Atualmente estudando React...
+
+ ##
+
 <div>
   <a href="https://github.com/Gustavo-Locks">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Locks&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
