@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente trabalho com desenvolvimento de api...
 - 🌱 Atualmente estudando React...
-
  ##
 
 <div>
